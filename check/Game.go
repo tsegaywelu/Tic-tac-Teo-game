@@ -5,6 +5,7 @@ import (
 	"math/rand"
 )
 
+// iam with sador on multiway
 var (
 	show=fmt.Println
 	playerx = "X" // we have 2 players O and X
@@ -102,7 +103,7 @@ func floorfull() bool{
     if floor[i][j]==empty{
 		return false 
 	}
-	ugu
+	
 
 		}
 	}
